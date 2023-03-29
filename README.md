@@ -1,7 +1,6 @@
 # Geogram
 React Ionic Project 
 
-Run the app
 To run the app in the browser the following commands are needed:
 
 npm i
