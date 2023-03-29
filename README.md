@@ -1,5 +1,7 @@
 # Geogram
 React Ionic Project 
+
+
 Team Members - Iva & Razvan
 
 To run the app in the browser the following commands are needed:
